@@ -18,5 +18,8 @@
     "react-dom": "npm:@preact/compat@^0.0.3",
     "react-ssr-prepass": "npm:preact-ssr-prepass@^1.1.1"
   },
-  "license": "UNLICENSE"
+  "license": "UNLICENSE",
+  "resolutions": {
+    "webpack": "^5.0.0"
+  }
 }

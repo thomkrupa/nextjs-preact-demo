@@ -1,6 +1,7 @@
 const withPrefresh = require('@prefresh/next');
 
 const config = {
+  target: 'serverless',
   experimental: {
     modern: true,
     polyfillsOptimization: true
